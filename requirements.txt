@@ -9,7 +9,7 @@ docutils==0.14
 future==0.16.0
 idna==2.7
 jmespath==0.9.4
-lxml==4.3.3
+lxml==4.9.1
 pathspec==0.5.9
 Pillow==6.0.0
 pypiwin32==223
